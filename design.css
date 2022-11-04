@@ -139,7 +139,6 @@ section {
   color: #172b4d;
 }
 
-.header-details .role,
 .header-details .year {
   font-weight: 600;
   font-size: 13px;
@@ -260,7 +259,7 @@ section {
   padding: 18px 12px;
 }
 
-.contact_me{
+.contact_me {
 width: 375px;
 height: 779px;
 left: 0px;
@@ -342,5 +341,3 @@ form {
   border-top-left-radius: 70px;
   gap: 120px;
 }
-
-
