@@ -50,6 +50,7 @@ section {
   line-height: 52px;
   color: #172b4d;
 }
+
 .description {
   font-weight: 400;
   font-size: 16px;
@@ -71,8 +72,6 @@ section {
   background-image: none;
   border-bottom-left-radius: 60px;
 }
-
-
 
 .contact-title {
   font-weight: 500;
@@ -109,7 +108,7 @@ section {
   border-radius: 16px;
 }
 
-.left-block,
+
 .project-text {
   display: flex;
   flex-direction: column;
@@ -260,6 +259,7 @@ section {
   justify-content: space-between;
   padding: 18px 12px;
 }
+
 .contact_me{
 width: 375px;
 height: 779px;
